@@ -7,6 +7,9 @@ from familyTreeGen import *
 ##########################################
 
 <stuff>
+ok this has a start of how Arcs could work, but needs way to handle Setting and characters.
+Things responsible for Setting should have Places be a class maybe.
+
 
 """
 
